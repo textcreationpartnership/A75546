@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments against all accommodation and treaties, betweene the citie of London, and the ingaged grandees of the Parliament &amp; army. / Written by one that honours God, and loveth his King and countrey.</title>
+            <author>One that honours God, and loveth his King and countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75546</idno>
+            <idno type="STC">Wing A3636</idno>
+            <idno type="STC">Thomason E434_20</idno>
+            <idno type="STC">ESTC R206233</idno>
+            <idno type="EEBO-CITATION">99865407</idno>
+            <idno type="PROQUEST">99865407</idno>
+            <idno type="VID">117647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117647)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments against all accommodation and treaties, betweene the citie of London, and the ingaged grandees of the Parliament &amp; army. / Written by one that honours God, and loveth his King and countrey.</title>
+                  <author>One that honours God, and loveth his King and countrey.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Colophon reads: Printed for H. B. 1648.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 4th."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:117647:1" rendition="simple:additions"/>
+ARGUMENTS AGAINST All Accommodation and Treaties, Betweene the Citie of London, AND The Ingaged Grandees OF THE Parliament &amp; Army.</p>
+            <p>Written by one that honours God, and loveth his <hi>King</hi> and <hi>Countrey.</hi>
+            </p>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117647:2"/>
+            <pb n="1" facs="tcp:117647:2"/>
+            <head>Arguments againſt all Accommodation and Treaties betweene the City, and the ingaged Grandees of the Parlia<g ref="char:EOLhyphen"/>ment and Army.</head>
+            <p n="1">1 IT will neither be ſafe nor honourable, for ſo great a City to accommodate and joyne intereſt with a conſpiring Party, that by frequent violations of their faith and duty, have inſlaved King, Parliament, City and Kingdome, and broken the Faith of this Nation given to the Scotts in the large Trea<g ref="char:EOLhyphen"/>ties, and in the Nationall Covenant.</p>
+            <p n="2">2 By accommodating with them, you make all their crimes your owne, their ſub<g ref="char:EOLhyphen"/>tilty being to involve you to joyn with them in defence of their crimes.</p>
+            <p n="3">3 The Scottiſh Quarrell is not againſt the Engliſh Nation, but againſt the trecherous and hypocriticall Grandees, who by perju<g ref="char:EOLhyphen"/>ring themſelves, and ſatiſfying their ingage<g ref="char:EOLhyphen"/>ments both unto Kingdome and Army, kee<g ref="char:EOLhyphen"/>ping
+<pb n="2" facs="tcp:117647:3"/>
+the Souldiers by falſe ſuggeſtions from disbanding, and totally obſtructing Irelands relief; and alſo a conſpiring party in Parlia<g ref="char:EOLhyphen"/>ment, who keep them up to make good the aforeſaid crimes, forcing what Votes they pleaſe to paſſe, by over-awing the Parliament: witneſſe Cromwells laying his hand upon his ſword, and forcing the Houſe to paſſe thoſe traiterous Votes againſt the King, con<g ref="char:EOLhyphen"/>trary to their owne conſciences, Allegiance, Proteſtations, Vow and Covenant, and to raiſe Taxes upon the people, which they ſhare amongſt themſelves. This warre is not likely to be of any continuance, conſi<g ref="char:EOLhyphen"/>dering there being in the Army many conſci<g ref="char:EOLhyphen"/>entious men, who have had ſuch ample ex<g ref="char:EOLhyphen"/>periment of the falſhood of their Grand Of<g ref="char:EOLhyphen"/>ficers, that they are not like to hazard their lives againe under the command of ſuch grand Impoſtors as they are; alſo knowing the generall hatred of the Kingdome to them under whoſe inſupportable burdens and op<g ref="char:EOLhyphen"/>preſsions it groaneth. Nor have wee any way to break the power of the ſaid Grandees of this Army but by the Scots, whereby the
+<pb n="3" facs="tcp:117647:3"/>
+juſt Rights and Intereſts of all three King<g ref="char:EOLhyphen"/>domes may be ſetled, and Ireland relieved: all which the Scots have declared in their former Papers delivered to both Houſes of Parliament.</p>
+            <p n="4">4 If you accommodate with this Facti<g ref="char:EOLhyphen"/>on, you muſt have the ſame friends and foes with them, as well as the ſame ſinnes and quarrells; and then it will grow to a Natio<g ref="char:EOLhyphen"/>nall Quarrell between England &amp; Scotland, which will be of long continuance and mi<g ref="char:EOLhyphen"/>ſery: and the Intereſt of the King and his Children, and of all Princes of Chriſtendome concerned in the example, will be carried on in the Kingdome of Scotland againſt you, if you joyn with thoſe beggerly Grandees who have inriched themſelves and their fellow-Impoſtors by the ruines of the Kingdome. You will loſe your credit and intereſt with your friends and Brethren of Scotland; the onely feare and terror of whoſe coming into England kept this Faction (which all men know is never ſatisfied with money &amp; bloud) from taking many of your innocent heads from off your ſhoulders: and confiſcating
+<pb n="4" facs="tcp:117647:4"/>
+your eſtates to pay the arreares of the Army: witneſſe their often ſpeeches to this purpoſe in the Houſe of Commons, and their illegall and violent proceedings againſt you: you will likewiſe loſe all the people of England.</p>
+            <p>I have ſhewed you your loſſes; let mee ſhew you your gaines by this accommodati<g ref="char:EOLhyphen"/>on; that by comparing one with the other, you may caſt up your accompt, whether you ſhall be gainers or loſers by it.</p>
+            <p n="1">1 They offer you the Tower of London, and your Militia to be reſtored (things of no great conſideration) and your Aldermen and Citizens to be ſet at liberty: they do not of<g ref="char:EOLhyphen"/>fer to disband their Armie, which makes them Lord it over you, and over-power both Tower and Militia; and when they have divided you from all your friends, and deſtroyed your reputa<g ref="char:EOLhyphen"/>tion, and are ſecure from the Scots, the ſame violence which at firſt took your Tower, your Militia, and your moſt honeſt Citizens from you, can deprive you of them all againe at pleaſure, when you ſhall have none to ſtick by you: your obligations to them ſhall be of ſteele, theirs to you but of ſtraw: he that gives mee that he can deprive me of at pleaſure, gives me no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="2">2 <hi>Cromwell</hi> and his Party know your City to be the
+<pb n="5" facs="tcp:117647:4"/>
+entire ſtrength of England. In <hi>Rich.</hi> 2. daies, (when it was not halfe for great and populnus as now) it ſlew <hi>Wat Tyler</hi> and routed his rabble, ſix times as many in number as the Army. They therefore feare you, and conſequently hate you, and labour nothing more then to divide and weaken you, which is their proper in<g ref="char:EOLhyphen"/>tereſt: for which purpoſe (to divide the City in it ſelfe) they cauſed the Parliament to change your Mi<g ref="char:EOLhyphen"/>litia into other hands: they cut off Weſtminiſter, South<g ref="char:EOLhyphen"/>wark, and the Hamlets from your <hi>Militia,</hi> to weaken it, they have divided you from the Parliament, they have endeavoured to divide the Country from you; <hi>Ut dividendo ſingula, imperent univerſis.</hi> Wherefore the Army in their Remonſtrance 7. Decemb. 1647. inſo<g ref="char:EOLhyphen"/>lently demand Reparations from the City to the Country adjacent, for above 100000. l. loſſe ſuſtained through the Armies attendance on the Cities defaults; which was a device only to make the Country quarrell with the City, and to make the Army Vmpiers.</p>
+            <p n="3">3 Conſider, you ſhall joyne with them that never keepe Faith longer then they may gaine by it, where<g ref="char:EOLhyphen"/>of you have many examples. Any honeſt man may be deceived once, but he is a foole that will be deceived twice by one man.</p>
+            <p n="4">4 Nay you cannot treat with theſe men, nor give them a Common Councell, or Hall, without loſſe and danger: They have alwaies made lies their re<g ref="char:EOLhyphen"/>fuge, and built their deſignes upon the ſandy founda<g ref="char:EOLhyphen"/>tions of Rumors and Tables.</p>
+            <p>
+               <hi>Cromwell</hi> and <hi>Glover</hi> already give out, that they and you are as good as agreed, that you differ only upon a puntilio of honor, which will ſoon be reconciled: what is the meaning of this? but that they (have<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:117647:5"/>
+creatures of their owne, Commiſſioners in Scot<g ref="char:EOLhyphen"/>land) they have advertiſment to ſpread the ſame re<g ref="char:EOLhyphen"/>ports there, thereby to take off the edge of your friends affections; to lay an imputation of inconſtancy upon you, and make you inconſiderable in the judgements of your beſt friends, and retard all indeavours for your ſuccour. In the meane time, this party hath blocked up all paſſages to Scotland, that truth can have no acceſſe to you, and you have only ſuch newes as Darby-houſe doth pleaſe to impart to you. Theſe men have commited thoſe crimes that cannot be ſafe without commiting greater: they muſt on headlong: goe not with them for company; they deſire to beſtow their plague-ſores upon others. Let it not trouble you, that the Parliament hath approved their ſubſcription of the Ingagement with the Army; it was a Vote extorted in a thin houſe, many Members having beene driven away by threats of the Army before; and there were many diſſenting Members. A little patience and conſtancy will ſettle you in a laſting peace.</p>
+            <p>To petition the Houſes to repeale their foure Votes againſt the King, is to ſave their reputation, that ſeeke to deſtroy yours.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
